@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:plant_swap/home/presentation/screens/home_screen.dart';
 import 'package:plant_swap/login/presentation/screens/login_screen.dart';
-import 'package:plant_swap/routes/routes_constants.dart';
+import 'package:plant_swap/utils/routes/routes_constants.dart';
 
 class AppRouter {
   AppRouter._();
